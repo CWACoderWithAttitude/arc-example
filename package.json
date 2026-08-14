@@ -18,7 +18,7 @@
     "faker": "^4.1.0",
     "jest": "^25.1.0",
     "ssn": "^1.0.3",
-    "standard": "^14.3.1"
+    "standard": "^17.1.2"
   },
   "dependencies": {
     "@architect/functions": "3.7.5-RC.0"
