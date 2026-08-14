@@ -16,7 +16,7 @@
     "@architect/architect": "^6.2.0",
     "@saadixl/countries": "^0.1.19",
     "faker": "^4.1.0",
-    "jest": "^25.1.0",
+    "jest": "^30.4.2",
     "ssn": "^1.0.3",
     "standard": "^14.3.1"
   },
